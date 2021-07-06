@@ -96,7 +96,7 @@ body {
 
 
 .btlogo {
-    font-family: canvas !important;
+    font-family: Josefin sans !important;
     font-size: 0.9em;
     font-weight: bold;
     letter-spacing: 2px;
@@ -217,6 +217,10 @@ body {
     -webkit-transform: scale(1.2);
 }
 
+
+.holder{
+    margin-bottom: -40vh;
+}
 
 
 
