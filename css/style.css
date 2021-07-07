@@ -24,6 +24,11 @@
    src: url(../fonts/Carolissa.ttf);
 }
 
+@font-face {
+   font-family: josefin;
+   src: url(../fonts/JosefinSans-SemiBold.ttf);
+}
+
 
 
 
@@ -96,7 +101,7 @@ body {
 
 
 .btlogo {
-    font-family: Josefin sans !important;
+    font-family: Josefin !important;
     font-size: 0.9em;
     font-weight: bold;
     letter-spacing: 2px;
